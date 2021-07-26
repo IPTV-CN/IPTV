@@ -1,7 +1,7 @@
 # IPTV
 
-![auto-update](https://github.com/IPTV-CN/IPTV-bot/actions/workflows/auto-update.yml/badge.svg)
-![clean](https://github.com/IPTV-CN/IPTV-bot/actions/workflows/clean.yml/badge.svg)
+![auto-update](https://github.com/IPTV-CN/IPTV/actions/workflows/auto-update.yml/badge.svg)
+![clean](https://github.com/IPTV-CN/IPTV/actions/workflows/clean.yml/badge.svg)
 
 收集来自世界各地的公开 IPTV 频道。
 
@@ -11,7 +11,7 @@ Internet Protocol television (IPTV) 是通过 Internet Protocol (IP) 协议传�
 
 要观看 IPTV 内容，你只需复制并粘贴此链接 `https://iptv-cn.github.io/IPTV/index.m3u` 到任何支持 M3U 播放列表的播放器中即可。
 
-![VLC Network Panel](https://raw.githubusercontent.com/tingv/image/Shortcuts/2021/7/26/preview_064709.png)
+![VLC Network Panel](.readme/preview.png)
 
 你也可以使用其中一个播放列表:
 
