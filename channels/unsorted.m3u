@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="zhtctv" tvg-name="中华特产" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://zhtctv.cn/image/logo@2x.png" group-title="其他",中华特产
+#EXTINF:-1 tvg-id="zhtctv" tvg-name="中华特产" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://zhtctv.cn/image/logo@2x.png" group-title="",中华特产
 http://play.zhtctv.cn/portal/btv.m3u8
