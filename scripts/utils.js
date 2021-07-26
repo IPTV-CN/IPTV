@@ -83,12 +83,7 @@ utils.sortBy = function (arr, fields) {
         return -1
       }
 
-      if (propA < propB) {
-        return -1
-      }
-      if (propA > propB) {
-        return 1
-      }
+      return propA.localeCompare(propB, 'zh', {sensitivity: 'base', ignorePunctuation: false, numeric: true})
     }
     return 0
   })
