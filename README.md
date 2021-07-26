@@ -1,7 +1,7 @@
 # IPTV
 
-![auto-update](https://github.com/IPTV-CN/IPTV/actions/workflows/auto-update.yml/badge.svg)
-![clean](https://github.com/IPTV-CN/IPTV/actions/workflows/clean.yml/badge.svg)
+![auto-update](https://github.com/IPTV-CN/IPTV-bot/actions/workflows/auto-update.yml/badge.svg)
+![clean](https://github.com/IPTV-CN/IPTV-bot/actions/workflows/clean.yml/badge.svg)
 
 收集来自世界各地的公开 IPTV 频道。
 
