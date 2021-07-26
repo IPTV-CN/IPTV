@@ -1,0 +1,14 @@
+[
+  {
+    "name": "cctv-20",
+    "country": "cctv",
+    "dmca_notice": "https://github.com/iptv-org/iptv/issues/1831",
+    "aliases": ["cctv30"]
+  },
+  {
+    "name": "测试卫视",
+    "country": "satellite",
+    "dmca_notice": "https://github.com/iptv-org/iptv/issues/1831",
+    "aliases": []
+  }
+]

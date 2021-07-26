@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💡 新功能请求
+    url: https://github.com/iptv-org/iptv/discussions/new
+    about: 任何新的想法或新的功能要求
+  - name: ❓ 问一个问题
+    url: https://github.com/iptv-org/iptv/discussions/new
+    about: 询问有关此项目的问题

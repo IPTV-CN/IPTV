@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,央视频道
+channels/cctv.m3u
+#EXTINF:-1,卫视频道
+channels/satellite.m3u
+#EXTINF:-1,地方频道
+channels/local.m3u
+#EXTINF:-1,尚未分类频道
+channels/unsorted.m3u

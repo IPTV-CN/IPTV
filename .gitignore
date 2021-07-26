@@ -1,0 +1,13 @@
+node_modules/
+.output/
+.gh-pages/
+error.log
+
+# IDE
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+.idea
+
+# OS
+.DS_Store

@@ -1,0 +1,67 @@
+[
+  {
+    "name": "CCTV",
+    "id": "cctv",
+    "nsfw": false
+  },
+  {
+    "name": "卫视",
+    "id": "卫视",
+    "nsfw": false
+  },
+  {
+    "name": "地方",
+    "id": "地方",
+    "nsfw": false
+  },
+  {
+    "name": "NewTV",
+    "id": "newtv",
+    "nsfw": false
+  },
+  {
+    "name": "CIBN",
+    "id": "cibn",
+    "nsfw": false
+  },
+  {
+    "name": "香港",
+    "id": "香港",
+    "nsfw": false
+  },
+  {
+    "name": "澳门",
+    "id": "澳门",
+    "nsfw": false
+  },
+  {
+    "name": "台湾",
+    "id": "台湾",
+    "nsfw": false
+  },
+  {
+    "name": "日本",
+    "id": "日本",
+    "nsfw": false
+  },
+  {
+    "name": "韩国",
+    "id": "韩国",
+    "nsfw": false
+  },
+  {
+    "name": "欧美",
+    "id": "欧美",
+    "nsfw": false
+  },
+  {
+    "name": "其他国家",
+    "id": "其他国家",
+    "nsfw": false
+  },
+  {
+    "name": "XXX",
+    "id": "xxx",
+    "nsfw": true
+  }
+]
