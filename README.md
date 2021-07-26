@@ -36,16 +36,6 @@ Internet Protocol television (IPTV) 是通过 Internet Protocol (IP) 协议传�
 		<tr><td align="left">CCTV</td><td align="right">7</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/cctv.m3u</code></td></tr>
 		<tr><td align="left">卫视</td><td align="right">2</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/卫视.m3u</code></td></tr>
 		<tr><td align="left">地方</td><td align="right">2</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/地方.m3u</code></td></tr>
-		<tr><td align="left">NewTV</td><td align="right">0</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/newtv.m3u</code></td></tr>
-		<tr><td align="left">CIBN</td><td align="right">0</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/cibn.m3u</code></td></tr>
-		<tr><td align="left">香港</td><td align="right">0</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/香港.m3u</code></td></tr>
-		<tr><td align="left">澳门</td><td align="right">0</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/澳门.m3u</code></td></tr>
-		<tr><td align="left">台湾</td><td align="right">0</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/台湾.m3u</code></td></tr>
-		<tr><td align="left">日本</td><td align="right">0</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/日本.m3u</code></td></tr>
-		<tr><td align="left">韩国</td><td align="right">0</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/韩国.m3u</code></td></tr>
-		<tr><td align="left">欧美</td><td align="right">0</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/欧美.m3u</code></td></tr>
-		<tr><td align="left">其他国家</td><td align="right">0</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/其他国家.m3u</code></td></tr>
-		<tr><td align="left">XXX</td><td align="right">0</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/xxx.m3u</code></td></tr>
 		<tr><td align="left">Other</td><td align="right">1</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/other.m3u</code></td></tr>
 	</tbody>
 </table>
@@ -65,7 +55,6 @@ Internet Protocol television (IPTV) 是通过 Internet Protocol (IP) 协议传�
 	</thead>
 	<tbody>
 		<tr><td align="left">Chinese</td><td align="right">12</td><td align="left"><code>https://iptv-cn.github.io/IPTV/languages/zho.m3u</code></td></tr>
-		<tr><td align="left">Undefined</td><td align="right">0</td><td align="left"><code>https://iptv-cn.github.io/IPTV/languages/undefined.m3u</code></td></tr>
 	</tbody>
 </table>
 
@@ -84,7 +73,6 @@ Internet Protocol television (IPTV) 是通过 Internet Protocol (IP) 协议传�
 	</thead>
 	<tbody>
 		<tr><td align="left">🇨🇳&nbsp;China</td><td align="right">12</td><td align="left" nowrap><code>https://iptv-cn.github.io/IPTV/countries/cn.m3u</code></td></tr>
-		<tr><td align="left">Undefined</td><td align="right">0</td><td align="left" nowrap><code>https://iptv-cn.github.io/IPTV/countries/undefined.m3u</code></td></tr>
 	</tbody>
 </table>
 
