@@ -1,8 +1,12 @@
 name: auto-update
 on:
   workflow_dispatch:
+  repository_dispatch:
+  push:
+    paths:
+      - 'channels/**'
   schedule:
-    - cron: '0 0 * * *'
+    - cron: 10 16 * * *
 jobs:
   remove-duplicates:
     runs-on: ubuntu-latest
