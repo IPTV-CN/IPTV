@@ -55,7 +55,7 @@ function generateCountriesTable() {
 
   const table = utils.generateTable(countries, {
     columns: [
-      { name: '国家', align: 'left' },
+      { name: '国家 (地区)', align: 'left' },
       { name: '频道数量', align: 'right' },
       { name: '播放列表', align: 'left', nowrap: true }
     ]
