@@ -36,6 +36,7 @@ Internet Protocol television (IPTV) 是通过 Internet Protocol (IP) 协议传�
 		<tr><td align="left">CCTV</td><td align="right">17</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/cctv.m3u</code></td></tr>
 		<tr><td align="left">卫视</td><td align="right">2</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/卫视.m3u</code></td></tr>
 		<tr><td align="left">地方</td><td align="right">2</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/地方.m3u</code></td></tr>
+		<tr><td align="left">其他国家</td><td align="right">1</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/其他国家.m3u</code></td></tr>
 		<tr><td align="left">Other</td><td align="right">1</td><td align="left"><code>https://iptv-cn.github.io/IPTV/categories/other.m3u</code></td></tr>
 	</tbody>
 </table>
@@ -55,6 +56,7 @@ Internet Protocol television (IPTV) 是通过 Internet Protocol (IP) 协议传�
 	</thead>
 	<tbody>
 		<tr><td align="left">Chinese</td><td align="right">22</td><td align="left"><code>https://iptv-cn.github.io/IPTV/languages/zho.m3u</code></td></tr>
+		<tr><td align="left">English</td><td align="right">1</td><td align="left"><code>https://iptv-cn.github.io/IPTV/languages/eng.m3u</code></td></tr>
 	</tbody>
 </table>
 
@@ -73,6 +75,7 @@ Internet Protocol television (IPTV) 是通过 Internet Protocol (IP) 协议传�
 	</thead>
 	<tbody>
 		<tr><td align="left">🇨🇳&nbsp;China</td><td align="right">22</td><td align="left" nowrap><code>https://iptv-cn.github.io/IPTV/countries/cn.m3u</code></td></tr>
+		<tr><td align="left">🇸🇬&nbsp;Singapore</td><td align="right">1</td><td align="left" nowrap><code>https://iptv-cn.github.io/IPTV/countries/sg.m3u</code></td></tr>
 	</tbody>
 </table>
 
