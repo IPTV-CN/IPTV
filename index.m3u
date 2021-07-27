@@ -9,5 +9,5 @@ channels/local.m3u
 channels/hkmtw.m3u
 #EXTINF:-1,国外频道
 channels/abroad.m3u
-#EXTINF:-1,其他频道
+#EXTINF:-1,尚未分组
 channels/unsorted.m3u
