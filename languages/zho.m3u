@@ -9,27 +9,29 @@ http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/zjwshd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="zhtctv" tvg-name="中华特产" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://zhtctv.cn/image/logo@2x.png" group-title="",中华特产
 http://play.zhtctv.cn/portal/btv.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="CCTV",CCTV-1 综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="CCTV",CCTV1 综合
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/400px-CCTV-2_Logo.svg.png" group-title="CCTV",CCTV-2 财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/400px-CCTV-2_Logo.svg.png" group-title="CCTV",CCTV2 财经
 http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="CCTV",CCTV-3 综艺
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="CCTV",CCTV3 综艺
 http://39.135.34.150:8080/000000001000/1000000001000011218/1.m3u8?xtkg
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/400px-CCTV-4_Logo.svg.png" group-title="CCTV",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/400px-CCTV-4_Logo.svg.png" group-title="CCTV",CCTV4 中文国际
 http://39.135.34.150:8080/000000001000/1000000002000031664/1.m3u8?xtkg
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="CCTV",CCTV-5 体育
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="CCTV",CCTV5 体育
 http://39.134.216.5:80/mgsp.live.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="CCTV",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="CCTV",CCTV5+ 体育赛事
 http://39.134.216.5:80/mgsp.live.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=1
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="CCTV",CCTV-6 电影
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="CCTV",CCTV6 电影
 http://39.135.34.150:8080/000000001000/1000000001000016466/1.m3u8?xtkg
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="CCTV",CCTV-7 国防军事
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="CCTV",CCTV7 国防军事
 http://39.135.32.29:6610/000000001000/1000000001000017218/1.m3u8?
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="CCTV",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="CCTV",CCTV8 电视剧
 http://39.135.34.150:8080/000000001000/1000000001000003736/1.m3u8?xtkg
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="CCTV",CCTV-9 记录
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="CCTV",CCTV9 记录
 http://39.135.34.150:8080/000000001000/1000000001000014583/1.m3u8?xtkg
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="CCTV",CCTV-10 科教
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="CCTV",CCTV10 科教
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="CCTV",CCTV-11 戏曲
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="CCTV",CCTV11 戏曲
 http://39.135.34.150:8080/000000001000/1000000002000019789/1.m3u8?xtkg
+#EXTINF:-1 tvg-id="CCTV12SheHuiYuFa.cctv" tvg-name="CCTV12 社会与法" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="CCTV",CCTV12 社会与法
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=1
