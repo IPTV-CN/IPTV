@@ -72,7 +72,7 @@ Internet Protocol television (IPTV) 是通过 Internet Protocol (IP) 协议传�
 <!-- prettier-ignore -->
 <table>
 	<thead>
-		<tr><th align="left">国家</th><th align="right">频道数量</th><th align="left">播放列表</th></tr>
+		<tr><th align="left">国家 (地区)</th><th align="right">频道数量</th><th align="left">播放列表</th></tr>
 	</thead>
 	<tbody>
 		<tr><td align="left">🇨🇳&nbsp;China</td><td align="right">26</td><td align="left" nowrap><code>https://iptv-cn.github.io/IPTV/countries/cn.m3u</code></td></tr>
