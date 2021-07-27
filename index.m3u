@@ -5,5 +5,9 @@ channels/cctv.m3u
 channels/satellite.m3u
 #EXTINF:-1,地方频道
 channels/local.m3u
-#EXTINF:-1,尚未分类频道
+#EXTINF:-1,港澳台频道
+channels/hkmtw.m3u
+#EXTINF:-1,国外频道
+channels/abroad.m3u
+#EXTINF:-1,其他频道
 channels/unsorted.m3u
