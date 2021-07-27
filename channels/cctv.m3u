@@ -27,3 +27,6 @@ http://39.135.34.150:8080/000000001000/1000000002000019789/1.m3u8?xtkg
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="CCTV13XinWen.cctv" tvg-name="CCTV13 新闻" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="CCTV",CCTV13 新闻
 http://39.135.34.150:8080/000000001000/1000000002000021303/1.m3u8?xtkg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="CCTV",CCTV14 少儿
+http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
