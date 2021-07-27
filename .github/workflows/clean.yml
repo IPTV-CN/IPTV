@@ -12,9 +12,11 @@ jobs:
       matrix:
         channel: [
             cctv,
+            satellite,
             local,
-            satellite
-            # unsorted
+            hkmtw,
+            abroad,
+            unsorted
           ]
     steps:
       - name: Checkout
