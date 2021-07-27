@@ -35,3 +35,5 @@ http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/m
 http://39.135.34.150:8080/000000001000/1000000002000019789/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="CCTV12SheHuiYuFa.cctv" tvg-name="CCTV12 社会与法" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="Chinese",CCTV12 社会与法
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="CCTV13XinWen.cctv" tvg-name="CCTV13 新闻" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="Chinese",CCTV13 新闻
+http://39.135.34.150:8080/000000001000/1000000002000021303/1.m3u8?xtkg
