@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FengHuangZhongWenHD.hkmtw" tvg-name="凤凰中文HD" tvg-country="HK" tvg-language="Chinese" tvg-logo="http://www.zyz98.com/uploads/fhzwt.jpg" group-title="香港",凤凰中文HD
+#EXTINF:-1 tvg-id="FengHuangZhongWen.hkmtw" tvg-name="凤凰中文" tvg-country="HK" tvg-language="Chinese" tvg-logo="http://www.zyz98.com/uploads/fhzwt.jpg" group-title="香港",凤凰中文
 http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/640px-Phoenix_InfoNews.svg.png" group-title="香港",凤凰资讯
