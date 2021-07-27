@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="zhtctv" tvg-name="中华特产" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://zhtctv.cn/image/logo@2x.png" group-title="",中华特产
 http://play.zhtctv.cn/portal/btv.m3u8
+#EXTINF:-1 tvg-id="AoShiAoMen.hkmtw" tvg-name="澳视澳门" tvg-country="MO" tvg-language="Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="澳门",澳视澳门
+http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="docutv" tvg-name="上海纪实人文" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/2251/20200713220934-1176129064_png_900_900_66479.jpg/300" group-title="地方",上海纪实人文
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="zhejiangshaoer" tvg-name="浙江少儿" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/33b59c051574c604f93157baa61455b2.png" group-title="地方",浙江少儿

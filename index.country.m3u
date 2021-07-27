@@ -55,5 +55,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 tvg-id="FengHuangZiXun.hkmtw" tvg-name="凤凰资讯" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/640px-Phoenix_InfoNews.svg.png" group-title="Hong Kong",凤凰资讯
 http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 tvg-id="AoShiAoMen.hkmtw" tvg-name="澳视澳门" tvg-country="MO" tvg-language="Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="Macao",澳视澳门
+http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOSignature.abroad" tvg-name="HBO Signature" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Singapore",HBO Signature
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
