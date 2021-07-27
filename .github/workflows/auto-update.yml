@@ -119,11 +119,10 @@ jobs:
           branch: bot/auto-update
           delete-branch: true
           token: ${{ steps.generate-token.outputs.token }}
-    - name: Marker version and time
-      id: getVersion
-      run: |
-        echo "Wait for the check to complete ..."
-        sleep 90
+      - name: Marker version and time
+        run: |
+          echo "Wait for the check to complete ..."
+          sleep 90
       - name: Enable Pull Request Automerge
         if: steps.pr.outputs.pull-request-operation == 'created'
         uses: peter-evans/enable-pull-request-automerge@v1
