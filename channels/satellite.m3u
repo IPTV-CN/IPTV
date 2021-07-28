@@ -7,6 +7,8 @@ http://39.135.34.150:8080/000000001000/1000000001000017156/1.m3u8?xtkg
 http://39.135.34.150:8080/000000001000/1000000002000018937/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="DongFangWeiShi.satellite" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.lzwzl.com/uploadfile/imgall/9213b07eca806538fe59f8079adda144ad348277.jpg" group-title="卫视",东方卫视
 http://39.135.32.29:6610/000000001000/1000000001000030202/1.m3u8?
+#EXTINF:-1 tvg-id="FuJianWeiShi.satellite" tvg-name="福建卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",福建卫视
+http://39.135.34.150:8080/000000001000/1000000002000009263/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="GuiZhouWeiShi.satellite" tvg-name="贵州卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://ivi.bupt.edu.cn/hls/gzhd.m3u8
 #EXTINF:-1 tvg-id="hunanstv" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="卫视",湖南卫视
@@ -19,6 +21,3 @@ http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 http://39.135.32.29:6610/000000001000/1000000001000000831/1.m3u8?
 #EXTINF:-1 tvg-id="zhejiangstv" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/zjwshd/2300000/mnf.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",福建卫视
-http://39.135.34.150:8080/000000001000/1000000002000009263/1.m3u8?xtkg
