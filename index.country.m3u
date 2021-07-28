@@ -43,6 +43,8 @@ http://39.134.216.5:80/mgsp.live.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="China",CCTV5+ 体育赛事
 http://39.134.216.5:80/mgsp.live.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="CCTV5PlusTiYuSaiShi.cctv" tvg-name="CCTV5+ 体育赛事" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="China",CCTV5+ 体育赛事
+http://117.136.154.98/PLTV/88888888/224/3221225512/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="China",CCTV6 电影
 http://39.135.34.150:8080/000000001000/1000000001000016466/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="China",CCTV7 国防军事
