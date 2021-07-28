@@ -224,6 +224,7 @@ class Channel {
       category: this.category || null,
       languages: this.languages,
       countries: this.countries,
+      filepath: 'channels/' + this.filename + '.m3u',
       tvg: {
         id: this.tvgId || null,
         name: this.tvgName || null,
