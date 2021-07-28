@@ -187,9 +187,9 @@ class Channel {
   getInfo() {
     this.tvg.country = this.tvg.country.toUpperCase()
 
-    let info = ` -1 tvg-id="${this.tvgId}" tvg-name="${this.tvgName}" tvg-country="${this.tvg.country}" tvg-language="${this.tvg.language}" tvg-logo="${this.logo}"`
+    let info = `-1 tvg-id="${this.tvgId}" tvg-name="${this.tvgName}" tvg-country="${this.tvg.country}" tvg-language="${this.tvg.language}" tvg-logo="${this.logo}"`
 
-    info += ` group-title="${this.category}", ${this.name}`
+    info += ` group-title="${this.category}",${this.name}`
 
     if (this.resolution.height) {
       info += ` (${this.resolution.height}p)`
