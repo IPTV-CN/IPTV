@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HBOSignature.abroad" tvg-name="HBO Signature" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="其他国家",HBO Signature
+#EXTINF: -1 tvg-id="HBOSignature.abroad" tvg-name="HBO Signature" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="其他国家", HBO Signature
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
