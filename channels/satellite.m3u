@@ -1,23 +1,12 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="AnHuiWeiShi.satellite" tvg-name="å®‰å¾½å«è§†" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png" group-title="å«è§†",å®‰å¾½å«è§†
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="BeiJingWeiShi.satellite" tvg-name="åŒ—äº¬å«è§†" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg" group-title="å«è§†",åŒ—äº¬å«è§†
-http://39.135.34.150:8080/000000001000/1000000001000017156/1.m3u8?xtkg
-#EXTINF:-1 tvg-id="ChongQingWeiShi.satellite" tvg-name="é‡åº†å«è§†" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="å«è§†",é‡åº†å«è§†
-http://39.135.34.150:8080/000000001000/1000000002000018937/1.m3u8?xtkg
-#EXTINF:-1 tvg-id="DongFangWeiShi.satellite" tvg-name="ä¸œæ–¹å«è§†" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.lzwzl.com/uploadfile/imgall/9213b07eca806538fe59f8079adda144ad348277.jpg" group-title="å«è§†",ä¸œæ–¹å«è§†
-http://39.135.32.29:6610/000000001000/1000000001000030202/1.m3u8?
-#EXTINF:-1 tvg-id="FuJianWeiShi.satellite" tvg-name="ç¦å»ºå«è§†" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="å«è§†",ç¦å»ºå«è§†
-http://39.135.34.150:8080/000000001000/1000000002000009263/1.m3u8?xtkg
-#EXTINF:-1 tvg-id="GuiZhouWeiShi.satellite" tvg-name="è´µå·å«è§†" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="å«è§†",è´µå·å«è§†
-http://ivi.bupt.edu.cn/hls/gzhd.m3u8
-#EXTINF:-1 tvg-id="hunanstv" tvg-name="æ¹–å—å«è§†" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="å«è§†",æ¹–å—å«è§†
-http://39.135.34.150:8080/000000001000/1000000001000009115/1.m3u8?xtkg
-#EXTINF:-1 tvg-id="JiangSuWeiShi.satellite" tvg-name="æ±Ÿè‹å«è§†" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png" group-title="å«è§†",æ±Ÿè‹å«è§†
-http://39.135.34.150:8080/000000001000/1000000001000004684/1.m3u8?xtkg
-#EXTINF:-1 tvg-id="NeiMengGuWeiShi.satellite" tvg-name="å†…è’™å¤å«è§†" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="å«è§†",å†…è’™å¤å«è§†
-http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
-#EXTINF:-1 tvg-id="TianJinWeiShi.satellite" tvg-name="å¤©æ´¥å«è§†" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="å«è§†",å¤©æ´¥å«è§†
-http://39.135.32.29:6610/000000001000/1000000001000000831/1.m3u8?
-#EXTINF:-1 tvg-id="zhejiangstv" tvg-name="æµ™æ±Ÿå«è§†" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="å«è§†",æµ™æ±Ÿå«è§†
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/zjwshd/2300000/mnf.m3u8
+tÌİALƒEÖÛà‰Ğ'è–z$¡ŠÆ­zYbµëo‚v¦zÛàr‹§¶¼‚6Ûà•©à¹¨
+§zÇ­¾	h‚ˆm¶Ÿÿ³¬¹Éÿu«Zş)šë?ÛMy×oöãşzí¿]ïıwÍé+¢êmŠÙ^†Ûiÿıµ÷^uß^7şX¯z™ZÊI+·©¥Ê&şX¯{úk¢
+Ú›ùb½ïÚ‡!wş4ÓM4Óù§~mîğEÓ Ñu¶ø"t¢&)àYè’†+µéeŠ×­¾	Ú™ëoÊ.ÚòÛo‚V§‚æ x(bë¶ø%¢
+!¶Úlÿû©–†Â)"™çbjŠàÿ¤Š—‰¯ó‡÷¿{ÁM]´×Xé‚
+èº›b¶W¡¶Úÿußø×<ÓÍ?ÓM4ÓM4×M4ÿ]4ÓM4ÓMtÓM5ï^zÿY·»Ìm’LƒEÖÛà‰Ğ¡¢xŠxz$¡ŠÆ­zYbµëo‚v¦zÛàr‹§¶¼‚6Ûà•©à¹¨
+§zÇ­¾	h‚ˆm¶Ÿÿz˜9×9­¶Š|ÓM?µ½ÂÏÜ†‰àª)à¦x ®‹©¶+ezm§ÿ÷÷]ùßyÓÍ<Óı4ÓM4ÓMtÓOõÓM4ÓM4ÛM4Ó_=ß¿õ›{¼ÆÙ tÈ4]m¾‰à©àYè’†+µéeŠ×­¾	Ú™ëoÊ.ÚòÛo‚V§‚æ x(bë¶ø%¢
+!¶Úlÿü0Â\ğÎW(›û©–†~)^ş) jY÷mwoNŞq¯4ëü}î}Í;õ§]k^8iİøónû˜ ®‹©¶+ezm§ÿ÷÷]ùßm½ë­tÿM4ÓM4Ó]4ÓıtÓM4ÓM5ÓM4ßM´ÛıfŞï]2[o‚'E¸˜šg¢J¬j×¥–+^¶ø'jg­¾(º{kÈ#m¾	Zšà¡Šw¬zÛà–ˆ(†Ûiÿ÷©ƒsšÛh§Í4Óû[×ü,ıÚ'‚v§¦x ®‹©¶+ezm§ÿ÷÷]ùßyÓÍ<Óı4ÓM4ÓMtÓOõÓM4ÓM4ÛM4ÓOvëõ›{¼ÆÙ tÈ4]m¾†éÚËo¶ø'jg­¾(º{kÈ#m¾	Zšà¡Šw¬zÛà–ˆ(†Ûi³ÿéj·(Î"¶›Šİzj?Õ’¦x ®‹©¶+ezm§ÿ÷÷]ùßyÓÍ<Óı4ÓM4ÓMtÓOõÓM4ÓM4×M4ÓOu×Ÿõ›{¼ÆÙ tÈ4]m¾&&§+–z$¡ŠÆ­zYbµëo‚v¦zÛàr‹§¶¼‚6Ûà•©à¹¨
+§zÇ­¾	h‚ˆm¶Ÿÿ³¬¹Éÿu«Zş)šë?ÛMy×oöãşzí¿]Ù¦wÎé+¢êmŠÙ^†Ûiÿıı×~wã^tóO4ÿM4ÓM4Ó]4ÓıtÓM4ÓM5ÓM4Ó¼ãıfŞï1¶H]2[o‚'Mz#®Yè’†+µéeŠ×­¾	Ú™ëoÊ.ÚòÛo‚V§‚æ x(bë¶ø%¢
+!¶Úıê`ç\æ¶Ú)óM4şÖõÿ?è¦zx)+¢êmŠÙ^†Ûiÿùb½é¶¢™n²y­½Éÿ×ûşX¯zmîğEÓ Ñu¶ø"u8šœ˜§Yè’†+µéeŠ×­¾	Ú™ëoÊ.ÚòÛo‚V§‚æ x(bë¶ø%¢
+!¶Úıê`ç\æ¶Ú)óM4şÖõÿ?¶&§)é+¢êmŠÙ^†Ûiÿıı×~wÛozë]?ÓM4ÓM4×M4ÿ]4ÓM4ÓMtÓM4ÓÍõÿY·»ÁLƒEÖÛà‰Üáz8š-¾Ûà©¶ø¢éí¯ ¶ø%jx.j‚†)Ş±ëo‚Z ¢m§ÿŞ¦uÎkm¢Ÿ4ÓOío_ğ³üáz8š
+g‚
+èº›b¶W¡¶ÚşÈ[ºX¯y·¬¶÷Ê&r4óOåŠ÷¿¦º ­©¿–+Şÿ8ğ²Û}4ÓM?šwæŞï
