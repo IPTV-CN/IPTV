@@ -49,8 +49,6 @@ http://39.134.216.5:80/mgsp.live.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5TiYu3.cctv" tvg-name="CCTV5 体育3" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="China",CCTV5 体育3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225837/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5Plus8M1080p.cctv" tvg-name="CCTV5+ 8M 1080p" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="China",CCTV5+ 8M 1080p
-http://39.134.24.24/PLTV/88888888/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5PlusTiYuSaiShi1.cctv" tvg-name="CCTV5+ 体育赛事1" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="China",CCTV5+ 体育赛事1
 http://39.134.216.5:80/mgsp.live.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="CCTV5PlusTiYuSaiShi2.cctv" tvg-name="CCTV5+ 体育赛事2" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="China",CCTV5+ 体育赛事2
