@@ -29,6 +29,8 @@ http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="TianJinWeiShi.satellite" tvg-name="天津卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://39.135.32.29:6610/000000001000/1000000001000000831/1.m3u8?
+#EXTINF:-1 tvg-id="WuXingTiYu.local" tvg-name="五星体育" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="地方",五星体育
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="zhejiangshaoer" tvg-name="浙江少儿" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/33b59c051574c604f93157baa61455b2.png" group-title="地方",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1 tvg-id="zhejiangstv" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
