@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AoShiAoMen.hkmtw" tvg-name="澳视澳门" tvg-country="MO" tvg-language="Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="澳门",澳视澳门
 http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="XiangGangKaiDianShi.hkmtw" tvg-name="香港开电视" tvg-country="HK" tvg-language="Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="香港",香港开电视
-http://livetv.dnsfor.me/channel.9.m3u8
