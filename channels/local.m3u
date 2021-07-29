@@ -3,8 +3,7 @@
 http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="docutv" tvg-name="上海纪实人文" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/2251/20200713220934-1176129064_png_900_900_66479.jpg/300" group-title="地方",上海纪实人文
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-id="WuXingTiYu.local" tvg-name="五星体育" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="地方",五星体育
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="zhejiangshaoer" tvg-name="浙江少儿" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/33b59c051574c604f93157baa61455b2.png" group-title="地方",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="地方",五星体育
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
