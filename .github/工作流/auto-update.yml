@@ -56,8 +56,6 @@ jobs:
     runs-on: ubuntu-latest
     needs: format
     steps:
-      - name: Pause until all workflows are completed
-        uses: willgarcia/workflow-wait-action@0.1.0
       - name: Checkout
         uses: actions/checkout@v2
       - name: Download Artifacts
