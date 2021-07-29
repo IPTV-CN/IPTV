@@ -19,12 +19,12 @@ http://39.135.34.150:8080/000000001000/1000000002000009263/1.m3u8?xtkg
 http://ivi.bupt.edu.cn/hls/gzhd.m3u8
 #EXTINF:-1 tvg-id="HuNanWeiShi.satellite" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="Chinese",湖南卫视
 http://39.135.34.150:8080/000000001000/1000000001000009115/1.m3u8?xtkg
-#EXTINF:-1 tvg-id="HuNanWeiShi16M1080p.satellite" tvg-name="湖南卫视 16M 1080p" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="Chinese",湖南卫视 16M 1080p
-http://39.134.24.24/PLTV/88888888/224/3221225837/index.m3u8
 #EXTINF:-1 tvg-id="JiangSuWeiShi.satellite" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png" group-title="Chinese",江苏卫视
 http://39.135.34.150:8080/000000001000/1000000001000004684/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="NeiMengGuWeiShi.satellite" tvg-name="内蒙古卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="Chinese",内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+#EXTINF:-1 tvg-id="ShaMenWeiShi.satellite" tvg-name="厦门卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/XMWS.png" group-title="Chinese",厦门卫视
+http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="docutv" tvg-name="上海纪实人文" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/2251/20200713220934-1176129064_png_900_900_66479.jpg/300" group-title="Chinese",上海纪实人文
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="TianJinWeiShi.satellite" tvg-name="天津卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="Chinese",天津卫视
