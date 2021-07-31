@@ -27,6 +27,8 @@ http://ivi.bupt.edu.cn/hls/gzhd.m3u8
 https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="HeNanWeiShi.satellite" tvg-name="河南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 http://ivi.bupt.edu.cn/hls/hnhd.m3u8
+#EXTINF:-1 tvg-id="HeiLongJiangWeiShi.satellite" tvg-name="黑龙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8
 #EXTINF:-1 tvg-id="HuNanWeiShi.satellite" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://39.135.34.150:8080/000000001000/1000000001000009115/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="JiLinWeiShi.satellite" tvg-name="吉林卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
