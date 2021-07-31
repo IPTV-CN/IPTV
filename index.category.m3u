@@ -7,6 +7,8 @@ http://play.zhtctv.cn/portal/btv.m3u8
 http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="BeiJingDongAoJiShi.local" tvg-name="北京东奥纪实" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京东奥纪实
 http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="BeiJingQiaKuShaoEr.local" tvg-name="北京卡酷少儿" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方",北京卡酷少儿
+http://39.134.24.24/PLTV/88888888/224/3221225598/index.m3u8
 #EXTINF:-1 tvg-id="docutv" tvg-name="上海纪实人文" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/2251/20200713220934-1176129064_png_900_900_66479.jpg/300" group-title="地方",上海纪实人文
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="WuXingTiYu.local" tvg-name="五星体育" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="地方",五星体育
