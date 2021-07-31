@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",咪咕直播
+http://39.134.24.24/PLTV/88888888/224/3221225773/index.m3u8
 #EXTINF:-1 tvg-id="zhtctv" tvg-name="中华特产" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://zhtctv.cn/image/logo@2x.png" group-title="",中华特产
 http://play.zhtctv.cn/portal/btv.m3u8
