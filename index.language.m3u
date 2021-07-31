@@ -25,6 +25,8 @@ http://39.135.34.150:8080/000000001000/1000000001000004684/1.m3u8?xtkg
 http://39.135.34.150:8080/000000001000/1000000001000013731/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="NeiMengGuWeiShi.satellite" tvg-name="内蒙古卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="Chinese",内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+#EXTINF:-1 tvg-id="QingHaiWeiShi.satellite" tvg-name="青海卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="Chinese",青海卫视
+http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="ShaMenWeiShi.satellite" tvg-name="厦门卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/XMWS.png" group-title="Chinese",厦门卫视
 http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="docutv" tvg-name="上海纪实人文" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/2251/20200713220934-1176129064_png_900_900_66479.jpg/300" group-title="Chinese",上海纪实人文
