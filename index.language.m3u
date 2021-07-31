@@ -22,11 +22,11 @@ http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1 tvg-id="GuangDongWeiShi.satellite" tvg-name="广东卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="Chinese",广东卫视
 http://39.135.34.150:8080/000000001000/1000000001000028357/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="GuangXiWeiShi.satellite" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="Chinese",广西卫视
-http://ivi.bupt.edu.cn/hls/gxhd.m3u8
+http://39.134.24.24/PLTV/88888888/224/3221225594/index.m3u8
 #EXTINF:-1 tvg-id="GuiZhouWeiShi.satellite" tvg-name="贵州卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="Chinese",贵州卫视
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
 #EXTINF:-1 tvg-id="HaiNanWeiShi.satellite" tvg-name="海南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Chinese",海南卫视
-http://ivi.bupt.edu.cn/hls/lyhd.m3u8
+http://39.134.24.24/PLTV/88888888/224/3221225614/index.m3u8
 #EXTINF:-1 tvg-id="HeBeiWeiShi.satellite" tvg-name="河北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="Chinese",河北卫视
 https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="HeNanWeiShi.satellite" tvg-name="河南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="Chinese",河南卫视
