@@ -33,6 +33,8 @@ http://live.geermurmt.com/qhws/sd/live.m3u8
 http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="docutv" tvg-name="上海纪实人文" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/2251/20200713220934-1176129064_png_900_900_66479.jpg/300" group-title="地方",上海纪实人文
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-id="SiChuanWeiShi.satellite" tvg-name="四川卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://ivi.bupt.edu.cn/hls/schd.m3u8
 #EXTINF:-1 tvg-id="TianJinWeiShi.satellite" tvg-name="天津卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://39.135.32.29:6610/000000001000/1000000001000000831/1.m3u8?
 #EXTINF:-1 tvg-id="WuXingTiYu.local" tvg-name="五星体育" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="地方",五星体育
