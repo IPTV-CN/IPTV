@@ -74,10 +74,10 @@ https://iptv-cn.github.io/IPTV/channels.json
 [
   ...
   {
-    "name": "CCTV-1 综合",
-    "logo": "https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png",
-    "url": "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8",
-    "category": "CCTV",
+    "name": "东方卫视",
+    "logo": "http://epg.51zmt.top:8000/tb1/ws/dongfang.png",
+    "url": "http://39.135.32.29:6610/000000001000/1000000001000030202/1.m3u8?",
+    "category": "卫视",
     "languages": [
         {
             "code": "zho",
@@ -90,9 +90,10 @@ https://iptv-cn.github.io/IPTV/channels.json
             "name": "China"
         }
     ],
+    "filepath": "channels/satellite.m3u",
     "tvg": {
-        "id": "CCTV1",
-        "name": "CCTV-1",
+        "id": "DongFangWeiShi.satellite",
+        "name": "东方卫视",
         "url": "http://epg.streamstv.me/epg/guide-usa.xml.gz"
     }
   },
