@@ -35,6 +35,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 http://39.135.32.29:6610/000000001000/1000000001000000831/1.m3u8?
 #EXTINF:-1 tvg-id="WuXingTiYu.local" tvg-name="五星体育" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Chinese",五星体育
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="YunNanWeiShi.satellite" tvg-name="云南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="Chinese",云南卫视
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1 tvg-id="zhejiangshaoer" tvg-name="浙江少儿" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/33b59c051574c604f93157baa61455b2.png" group-title="Chinese",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1 tvg-id="zhejiangstv" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="Chinese",浙江卫视
