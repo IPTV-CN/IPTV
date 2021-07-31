@@ -23,6 +23,8 @@ http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="ShaMenWeiShi.satellite" tvg-name="厦门卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/XMWS.png" group-title="卫视",厦门卫视
 http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
+#EXTINF:-1 tvg-id="ShanDongWeiShi.satellite" tvg-name="山东卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+http://livealone302.iqilu.com/iqilu/sdtv.m3u8
 #EXTINF:-1 tvg-id="SiChuanWeiShi.satellite" tvg-name="四川卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 http://ivi.bupt.edu.cn/hls/schd.m3u8
 #EXTINF:-1 tvg-id="TianJinWeiShi.satellite" tvg-name="天津卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
@@ -31,6 +33,3 @@ http://39.135.32.29:6610/000000001000/1000000001000000831/1.m3u8?
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1 tvg-id="zhejiangstv" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/zjwshd/2300000/mnf.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
-http://livealone302.iqilu.com/iqilu/sdtv.m3u8
