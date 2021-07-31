@@ -43,6 +43,8 @@ http://39.135.34.150:8080/000000001000/1000000001000009115/1.m3u8?xtkg
 http://ivi.bupt.edu.cn/hls/jltv.m3u8
 #EXTINF:-1 tvg-id="JiangSuWeiShi.satellite" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png" group-title="Chinese",江苏卫视
 http://39.135.34.150:8080/000000001000/1000000001000004684/1.m3u8?xtkg
+#EXTINF:-1 tvg-id="JiangSuYouManQiaTong.local" tvg-name="江苏优漫卡通" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Chinese",江苏优漫卡通
+http://39.134.24.24/PLTV/88888888/224/3221225698/index.m3u8
 #EXTINF:-1 tvg-id="JiangXiWeiShi.satellite" tvg-name="江西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="Chinese",江西卫视
 http://39.135.34.150:8080/000000001000/1000000001000013731/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="LiaoNingWeiShi.satellite" tvg-name="辽宁卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="Chinese",辽宁卫视
