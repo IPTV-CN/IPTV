@@ -7,6 +7,8 @@ http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
 http://39.135.34.150:8080/000000001000/1000000001000011218/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/400px-CCTV-4_Logo.svg.png" group-title="CCTV",CCTV4 中文国际
 http://39.135.34.150:8080/000000001000/1000000002000031664/1.m3u8?xtkg
+#EXTINF:-1 tvg-id="CCTV4KChaoGaoQing.cctv" tvg-name="CCTV4K 超高清" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20180930/efe5842346664963b4ebe4e63208660c.jpg" group-title="CCTV",CCTV4K 超高清
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5TiYu1.cctv" tvg-name="CCTV5 体育1" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="CCTV",CCTV5 体育1
 http://39.134.216.5:80/mgsp.live.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="CCTV5TiYu2.cctv" tvg-name="CCTV5 体育2" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="CCTV",CCTV5 体育2
