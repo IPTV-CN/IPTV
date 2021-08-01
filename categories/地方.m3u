@@ -3,6 +3,8 @@
 http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="BeiJingQiaKuShaoEr.local" tvg-name="北京卡酷少儿" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方",北京卡酷少儿
 http://39.134.24.24/PLTV/88888888/224/3221225598/index.m3u8
+#EXTINF:-1 tvg-id="BeiJingYingShi.local" tvg-name="北京影视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="地方",北京影视
+http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 tvg-id="HuNanJinYingQiaTong.local" tvg-name="湖南金鹰卡通" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="地方",湖南金鹰卡通
 http://39.134.24.24/PLTV/88888888/224/3221225750/index.m3u8
 #EXTINF:-1 tvg-id="JiangSuYouManQiaTong.local" tvg-name="江苏优漫卡通" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="地方",江苏优漫卡通
