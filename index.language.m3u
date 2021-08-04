@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AnHuiWeiShi.satellite" tvg-name="安徽卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png" group-title="Chinese",安徽卫视
+http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225844/1.m3u8
 #EXTINF:-1 tvg-id="BeiJingDongAoJiShi.local" tvg-name="北京东奥纪实" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="Chinese",北京东奥纪实
 http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="BeiJingQiaKuShaoEr.local" tvg-name="北京卡酷少儿" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="Chinese",北京卡酷少儿

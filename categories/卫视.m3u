@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AnHuiWeiShi.satellite" tvg-name="安徽卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png" group-title="卫视",安徽卫视
+http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225844/1.m3u8
 #EXTINF:-1 tvg-id="BeiJingWeiShi.satellite" tvg-name="北京卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg" group-title="卫视",北京卫视
 http://39.135.34.150:8080/000000001000/1000000001000017156/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="BingTuanWeiShi.satellite" tvg-name="兵团卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
