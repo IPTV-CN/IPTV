@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AnHuiWeiShi.satellite" tvg-name="安徽卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png" group-title="卫视",安徽卫视
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="AoShiAoMen.hkmtw" tvg-name="澳视澳门" tvg-country="MO" tvg-language="Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="澳门",澳视澳门
 http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="BeiJingDongAoJiShi.local" tvg-name="北京东奥纪实" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京东奥纪实
