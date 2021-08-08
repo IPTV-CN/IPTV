@@ -7,6 +7,10 @@
 
 Internet Protocol television (IPTV) 是通过 Internet Protocol (IP) 协议传送电视内容的技术。
 
+## 停止维护
+
+由于 2020 奥运会已结束，本项目不会再人工更新其中的频道了，感兴趣的朋友可 Fork 走自行维护。
+
 ## 用法
 
 要观看 IPTV 内容，你只需复制并粘贴此链接 `https://iptv-cn.github.io/IPTV/index.m3u` 到任何支持 M3U 播放列表的播放器中即可。
