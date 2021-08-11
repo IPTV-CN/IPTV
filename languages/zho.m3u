@@ -31,8 +31,6 @@ http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
 http://39.134.24.24/PLTV/88888888/224/3221225614/index.m3u8
 #EXTINF:-1 tvg-id="HeBeiWeiShi.satellite" tvg-name="河北卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
 https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="HeNanWeiShi.satellite" tvg-name="河南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
-http://ivi.bupt.edu.cn/hls/hnhd.m3u8
 #EXTINF:-1 tvg-id="HeiLongJiangWeiShi.satellite" tvg-name="黑龙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8
 #EXTINF:-1 tvg-id="HuNanJinYingQiaTong.local" tvg-name="湖南金鹰卡通" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="地方",湖南金鹰卡通
