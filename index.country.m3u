@@ -7,8 +7,6 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
 http://39.134.24.24/PLTV/88888888/224/3221225598/index.m3u8
 #EXTINF:-1 tvg-id="BeiJingWeiShi.satellite" tvg-name="北京卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e4/BTV2011.jpg" group-title="China",北京卫视
 http://39.135.34.150:8080/000000001000/1000000001000017156/1.m3u8?xtkg
-#EXTINF:-1 tvg-id="BingTuanWeiShi.satellite" tvg-name="兵团卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="China",兵团卫视
-http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ChongQingWeiShi.satellite" tvg-name="重庆卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="China",重庆卫视
 http://39.135.34.150:8080/000000001000/1000000002000018937/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="DongFangWeiShi.satellite" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="China",东方卫视
