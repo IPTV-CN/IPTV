@@ -93,8 +93,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 http://39.135.34.150:8080/000000001000/1000000001000016466/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="China",CCTV7 国防军事
 http://39.135.32.29:6610/000000001000/1000000001000017218/1.m3u8?
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="China",CCTV8 电视剧
-http://39.135.34.150:8080/000000001000/1000000001000003736/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="China",CCTV9 记录
 http://39.135.34.150:8080/000000001000/1000000001000014583/1.m3u8?xtkg
 #EXTINF:-1 tvg-id="CCTV10KeJiao.cctv" tvg-name="CCTV10 科教" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="China",CCTV10 科教
@@ -117,5 +115,3 @@ http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 tvg-id="AoShiAoMen.hkmtw" tvg-name="澳视澳门" tvg-country="MO" tvg-language="Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="Macao",澳视澳门
 http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOSignature.abroad" tvg-name="HBO Signature" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Singapore",HBO Signature
-http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
