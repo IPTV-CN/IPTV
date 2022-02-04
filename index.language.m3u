@@ -111,6 +111,8 @@ http://39.135.34.150:8080/000000001000/1000000002000021303/1.m3u8?xtkg
 http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15YinLe.cctv" tvg-name="CCTV15 音乐" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="Chinese",CCTV15 音乐
 http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?xtkg
+#EXTINF:-1 tvg-id="CCTV16AoLinPiKe.cctv" tvg-name="CCTV16 奥林匹克" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/39/CCTV-16.png" group-title="Chinese",CCTV16 奥林匹克
+http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16AoLinPiKe4K.cctv" tvg-name="CCTV16 奥林匹克 4K" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/39/CCTV-16.png" group-title="Chinese",CCTV16 奥林匹克 4K
 http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17NongYeNongCun.cctv" tvg-name="CCTV17 农业农村" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-7_Logo_2011.png" group-title="Chinese",CCTV17 农业农村
